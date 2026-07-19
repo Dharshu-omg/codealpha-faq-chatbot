@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that enables computers to learn from data."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a programming language."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML is used to create web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS is used to design web pages."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript makes web pages interactive."
+  }
+]
